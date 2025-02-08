@@ -1,8 +1,8 @@
-streamlit>=1.33.0
-crewai>=0.28.8
-crewai-tools>=0.1.7
-langchain-groq>=0.1.2
-youtube-transcript-api>=0.6.1
-pytube>=15.0.0
-protobuf==3.20.3
-typing-extensions>=4.5.0
+streamlit
+crewai
+crewai-tools
+langchain-groq
+youtube-transcript-api
+pytube
+protobuf
+typing-extensions
