@@ -2,7 +2,10 @@ streamlit
 crewai
 crewai-tools
 langchain-groq
-youtube-transcript-api
-pytube
-protobuf
-typing-extensions
+chromadb
+pysqlite3-binary
+onnxruntime
+langchain-chroma
+grpcio
+grpcio-tools
+python-dotenv
